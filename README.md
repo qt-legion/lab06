@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/qt-legion/lab06.svg?branch=homework)](https://travis-ci.org/qt-legion/lab06)
+[![Build Status](https://travis-ci.com/qt-legion/lab06)](https://travis-ci.org/qt-legion/lab06)
 ## Laboratory work VI
 
 Данная лабораторная работа посвещена изучению средств пакетирования на примере **CPack**
